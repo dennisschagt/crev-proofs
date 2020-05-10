@@ -1,0 +1,19 @@
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: "2020-05-10T02:33:06.536463575+02:00"
+from:
+  id-type: crev
+  id: GXDSxzEBLmRuNZhvrgKCGskZGIQBqayeqTUSpw0aRQM
+  url: "https://github.com/dennisschagt/crev-proofs"
+ids:
+  - id-type: crev
+    id: kQ1fVKX-nZhluPcz1Wj7PGsAgUe7sEeNXPCi0qDJQCw
+trust: medium
+comment: |-
+  Maintainer of Newsboat. In that context, I've seen many of his recent
+  reviews which make me trust his reviewing skills.
+----- SIGN CREV PROOF -----
+OBqyPWuCB_PHmNaNblMcLu7oEMeg8AQS01Xpe8pZ-0dEztP8fxvequeGlZDaIbqpTwQbXdu29MgOzH1478xOBA
+----- END CREV PROOF -----
+
